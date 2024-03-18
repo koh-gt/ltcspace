@@ -58,9 +58,9 @@ export class BlockchainBlocksComponent implements OnInit, OnChanges, OnDestroy {
   dividerBlockOffset: number = 205;
   blockPadding: number = 30;
 
-  gradientColors = { // LTCbrand: current blocks gradient colors
-    '': ['#2396d9', '#2368d9'],
-    testnet: ['#2396d9', '#2368d9'],
+  gradientColors = { // Ferrite brand: current blocks gradient colors
+    '': ['#7b1818', '#6b1818'],
+    testnet: ['#7b1818', '#6b1818'],
   };
 
   constructor(
