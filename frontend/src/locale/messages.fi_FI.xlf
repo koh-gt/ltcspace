@@ -1130,8 +1130,8 @@
         <note from="description" priority="1">about.about-the-project</note>
       </trans-unit>
       <trans-unit datatype="html" id="489827bef9fd30645fd2a217aea141ac43bd01ef">
-        <source>The mempool open-source project aims to implement a high quality explorer and visualization website for the entire Litecoin ecosystem, without distractions like altcoins, advertising, or third-party trackers.</source>
-        <target>Mempool avoimen lähdekoodin projektin tavoitteena on toteuttaa korkealaatuinen tutkimus- ja visualisointisivusto koko Litecoin-ekosysteemille ilman häiriötekijöitä, kuten altcoineja, mainontaa tai kolmannen osapuolen seurantalaitteita.</target>
+        <source>The mempool open-source project aims to implement a high quality explorer and visualization website for the entire Ferritecoin ecosystem, without distractions like afecoins, advertising, or third-party trackers.</source>
+        <target>Mempool avoimen lähdekoodin projektin tavoitteena on toteuttaa korkealaatuinen tutkimus- ja visualisointisivusto koko Ferritecoin-ekosysteemille ilman häiriötekijöitä, kuten afecoineja, mainontaa tai kolmannen osapuolen seurantalaitteita.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about/about.component.html</context>
           <context context-type="linenumber">16</context>
@@ -1237,8 +1237,8 @@
         <note from="description" priority="1">about.sponsor.amount-required</note>
       </trans-unit>
       <trans-unit datatype="html" id="c525ee366d56496a39853d54f8f08fcaed0eaf40">
-        <source>Minimum amount is 0.001 LTC</source>
-        <target>Vähimmäismäärä on 0,001 LTC</target>
+        <source>Minimum amount is 0.001 FEC</source>
+        <target>Vähimmäismäärä on 0,001 FEC</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about/about.component.html</context>
           <context context-type="linenumber">83</context>
@@ -1246,8 +1246,8 @@
         <note from="description" priority="1">about.sponsor.minimum-amount</note>
       </trans-unit>
       <trans-unit datatype="html" id="9b8d8dedba1ce2bf7b44f324993f8df5d7a75410">
-        <source>If you donate 0.01 LTC or more, your profile photo will be added to the list of sponsors above :)</source>
-        <target>Jos lahjoitat 0,01 LTC tai enemmän, profiilikuvasi lisätään yllä olevaan sponsoriluetteloon :)</target>
+        <source>If you donate 0.01 FEC or more, your profile photo will be added to the list of sponsors above :)</source>
+        <target>Jos lahjoitat 0,01 FEC tai enemmän, profiilikuvasi lisätään yllä olevaan sponsoriluetteloon :)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about/about.component.html</context>
           <context context-type="linenumber">92</context>
@@ -2190,28 +2190,28 @@
         </context-group>
       </trans-unit>
       <trans-unit datatype="html" id="e7e7c97535181ba299bc0ad02904f851088a0dd5">
-        <source>Returns all Bisq transactions that exist in a Litecoin Block.</source>
+        <source>Returns all Bisq transactions that exist in a Ferritecoin Block.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/api-docs/api-docs.component.html</context>
           <context context-type="linenumber">260</context>
         </context-group>
       </trans-unit>
       <trans-unit datatype="html" id="6fdafaace68cb298c6281e89eedc704f3d8f3f6a">
-        <source>Returns :length Litecoin Blocks that contain Bisq transactions, starting from :index.</source>
+        <source>Returns :length Ferritecoin Blocks that contain Bisq transactions, starting from :index.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/api-docs/api-docs.component.html</context>
           <context context-type="linenumber">264</context>
         </context-group>
       </trans-unit>
       <trans-unit datatype="html" id="ac234ff46c8f499399a20fb5d74005094de7cdcd">
-        <source>Returns the most recently processed Litecoin Block Height processed by Bisq.</source>
+        <source>Returns the most recently processed Ferritecoin Block Height processed by Bisq.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/api-docs/api-docs.component.html</context>
           <context context-type="linenumber">268</context>
         </context-group>
       </trans-unit>
       <trans-unit datatype="html" id="9604b870a64e6635062828425fcb801371e716ad">
-        <source>Returns all Bisq transactions belonging to a Litecoin Address, with 'B' prefixed in front of the address.</source>
+        <source>Returns all Bisq transactions belonging to a Ferritecoin Address, with 'B' prefixed in front of the address.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/api-docs/api-docs.component.html</context>
           <context context-type="linenumber">272</context>
