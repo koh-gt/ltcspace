@@ -132,27 +132,27 @@ main {
 }
 
 .btn-purple { // LTCbrand: search button
-  background-color: #4c92ff;
-  border-color: #4c92ff;
+  background-color: #6b1818;
+  border-color: #5b1818;
 }
 
 .btn-purple:not(:disabled):not(.disabled):active, .btn-purple:not(:disabled):not(.disabled).active, .show > .btn-purple.dropdown-toggle {
   color: #fff;
-  background-color: #4d2d77;
-  border-color: #472a6e;
+  background-color: #2b0504;
+  border-color: #1b0303;
 }
 
 .btn-purple:focus, .btn-purple.focus {
   color: #fff;
-  background-color: #533180;
-  border-color: #4d2d77;
-  box-shadow: 0 0 0 0.2rem rgb(124 88 171 / 50%);
+  background-color: #ffd700;
+  border-color: #ffd700;
+  box-shadow: 0 0 0 0.2rem rgb(250 150 0 / 50%);
 }
 
 .btn-purple:hover {
   color: #fff;
-  background-color: #533180;
-  border-color: #4d2d77;
+  background-color: #ffd700;
+  border-color: #ffd700;
 }
 
 .form-control.form-control-secondary {
